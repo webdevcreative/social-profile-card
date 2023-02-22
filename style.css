@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
+
+:root {
+  --light-blue: #1c9eff;
+  --dark-blue: #007ad6;
+  --btn-yellow: #ffd01a;
+  --btn-hover-yellow: #efb10a;
+  --btn-active-yellow: #e8a200;
+  --light-grey: #f2f2f2;
+  --grey: #a0a0a0;
+  --pink: #ff9eaa;
+}
